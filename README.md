@@ -1,5 +1,10 @@
 # OCR pipeline with tesseract
 
+### Prerequisites
+
+* File system, cloud or otherwise
+* tesseract installed
+
 ### Usage
 
 `img_to_text_pdf source destination`
